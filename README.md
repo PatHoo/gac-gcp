@@ -28,14 +28,24 @@
 > https://cloud.google.com/kubernetes-engine/docs/how-to/kubernetes-service-accounts
 
 ### Terraform for GCP Resource
->https://github.com/GoogleCloudPlatform/gke-poc-toolkit
+> https://github.com/GoogleCloudPlatform/gke-poc-toolkit
 
->https://github.com/GoogleCloudPlatform/gke-enterprise-mt
+> https://github.com/GoogleCloudPlatform/gke-enterprise-mt
 
->https://github.com/GoogleCloudPlatform/gke-terraform-generator
+> https://github.com/GoogleCloudPlatform/gke-terraform-generator
 
->https://github.com/GoogleCloudPlatform/terraform-google-secure-cicd
+> https://github.com/GoogleCloudPlatform/terraform-google-secure-cicd
 
->https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops
+> https://github.com/GoogleCloudPlatform/solutions-terraform-cloudbuild-gitops
 
->https://github.com/terraform-google-modules/terraform-google-kubernetes-engine
+> https://github.com/terraform-google-modules/terraform-google-kubernetes-engine
+
+### Terraform BluePrints
+> https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints
+
+### Security Foundations Blueprint
+> https://cloud.google.com/architecture/security-foundations
+
+> https://github.com/terraform-google-modules/terraform-example-foundation
+
+> https://github.com/search?q=topic%3Acft-terraform+org%3Aterraform-google-modules&type=Repositories
