@@ -41,6 +41,9 @@
 > https://github.com/terraform-google-modules/terraform-google-kubernetes-engine
 
 ### Terraform BluePrints
+> https://cloud.google.com/foundation-toolkit
+
+### Cloud Foundation Toolkit
 > https://cloud.google.com/docs/terraform/blueprints/terraform-blueprints
 
 ### Security Foundations Blueprint
